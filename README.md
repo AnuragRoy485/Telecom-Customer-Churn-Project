@@ -1,6 +1,3 @@
-Here is the **final ready-to-paste `README.md` file** — clean, polished, and fully based on your two files (`churn (1).ipynb` + `svc_model.pkl`).
-
-Just **copy-paste this entire block** into your GitHub repository as `README.md` 👇👇
 
 ---
 
