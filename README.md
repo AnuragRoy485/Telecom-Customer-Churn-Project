@@ -157,19 +157,3 @@ Use `svc_model.pkl` for inference without retraining.
 GitHub: [AnuragRoy485](https://github.com/AnuragRoy485)
 
 ---
-
-## 📜 License
-
-This project is open-source under the MIT License.
-
-```
-
----
-
-If you want, I can also generate:
-✅ A clean `requirements.txt`  
-✅ A `predict.py` script  
-✅ A model diagram or workflow image  
-Just tell me!
-```
-
